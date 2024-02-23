@@ -1,2 +1,2 @@
 # Benchmark
-Check Benchmark Linux Server
+wget -qO- yun.ir/bench | bash
