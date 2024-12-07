@@ -68,10 +68,11 @@ speed_test() {
 
 speed() {
     speed_test '' 'Local'
-    speed_test '43844' 'HostIRAN, IR'
-    speed_test '9320' 'DeltaTelecam, AZ'
-    speed_test '5530' 'MyLoc, DE'
-    speed_test '24215' 'Paris, FR'
+    speed_test '61326' 'AsiaTech, IR'
+    speed_test '37820' 'Sindad, IR'
+    speed_test '27457' 'Turktelecom, TR'
+    speed_test '32298' 'SYNLINQ, DE'
+    speed_test '19443' 'Yerevan, AM'
     speed_test '28922' 'Amsterdam, NL'
 }
 
