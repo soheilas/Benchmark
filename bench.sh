@@ -71,7 +71,7 @@ speed() {
     speed_test '61326' 'AsiaTech, IR'
     speed_test '37820' 'Sindad, IR'
     speed_test '4845' 'Dubai (du), UAE'
-    speed_test '1692' 'Abu Dubai (du), UAE'
+    speed_test '1692' 'Abu Dubai , UAE'
     speed_test '4570' 'OMANTEL, BH'
     speed_test '27457' 'Turktelecom, TR'
     speed_test '32298' 'SYNLINQ, DE'
