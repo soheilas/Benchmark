@@ -68,14 +68,12 @@ speed_test() {
 
 speed() {
     speed_test '' 'Local'
-    speed_test '61326' 'AsiaTech, IR'
-    speed_test '37820' 'Sindad, IR'
-    speed_test '70322' 'Pishgaman, IR'
+    speed_test '73907' 'Respina, IR'
     speed_test '19534' 'Zil-Tel, IR'
-    speed_test '18511' 'MCI(HamrahAval) , IR'
     speed_test '4317' 'Irancell , IR'
-    speed_test '27457' 'Turktelecom, TR'
-    speed_test '32298' 'SYNLINQ, DE'
+    speed_test '61933' 'Scaleway, FR'
+    speed_test '69657' 'Server.Camp, DE'
+    speed_test '35692' 'Clouvider, DE'
 }
 
 io_test() {
